@@ -8,7 +8,7 @@ package paquete04;
  *
  * @author Usuarioo
  */
-public class ejemplo01 {
+public class Ejemplo01 {
 
     public static void main(String[] args) {
         for (int i = 30; i >= 10; i--) {
